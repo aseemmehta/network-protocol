@@ -1,0 +1,10 @@
+//	   System.out.println(destiantionPort+"   "+ sendToAddress+"     "+rover);
+//	   byte[] sourcePortBytes = twoByteArray(sourcePort);
+//	   handshakepacket[0] = sourcePortBytes[0];
+//	   handshakepacket[1] = sourcePortBytes[1];
+//	   
+//	   byte[] destinationPortBytes = twoByteArray(destinationPort);
+//	   handshakepacket[2] = destinationPortBytes[0];
+//	   handshakepacket[3] = destinationPortBytes[1];
+//	   
+//	   System.out.println(twoByteNumber(sourcePortBytes[0],sourcePortBytes[1])); // For testing
